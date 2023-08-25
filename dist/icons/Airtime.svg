@@ -1,0 +1,58 @@
+<svg id="mobile-payment" xmlns="http://www.w3.org/2000/svg" width="46.449" height="46.449" viewBox="0 0 46.449 46.449">
+  <g id="Group_62" data-name="Group 62" transform="translate(17.418)">
+    <g id="Group_61" data-name="Group 61">
+      <path id="Path_38" data-name="Path 38" d="M218.127,0H194.9A2.9,2.9,0,0,0,192,2.9v2.9h1.935V2.9a.968.968,0,0,1,.968-.968h23.224a.968.968,0,0,1,.968.968V43.546a.968.968,0,0,1-.968.968H194.9a.968.968,0,0,1-.968-.968v-2.9H192v2.9a2.9,2.9,0,0,0,2.9,2.9h23.224a2.9,2.9,0,0,0,2.9-2.9V2.9A2.9,2.9,0,0,0,218.127,0Z" transform="translate(-192)" fill="#68387d"/>
+    </g>
+  </g>
+  <g id="Group_64" data-name="Group 64" transform="translate(26.127 7.741)">
+    <g id="Group_63" data-name="Group 63">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="16.451" height="1.935" fill="#36b6e1"/>
+    </g>
+  </g>
+  <g id="Group_66" data-name="Group 66" transform="translate(26.127 36.772)">
+    <g id="Group_65" data-name="Group 65">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="16.451" height="1.935" fill="#36b6e1"/>
+    </g>
+  </g>
+  <g id="Group_68" data-name="Group 68" transform="translate(24.192 3.871)">
+    <g id="Group_67" data-name="Group 67">
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="11.612" height="1.935" fill="#36b6e1"/>
+    </g>
+  </g>
+  <g id="Group_70" data-name="Group 70" transform="translate(37.74 3.871)">
+    <g id="Group_69" data-name="Group 69">
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="1.935" height="1.935" fill="#68387d"/>
+    </g>
+  </g>
+  <g id="Group_72" data-name="Group 72" transform="translate(30.966 40.643)">
+    <g id="Group_71" data-name="Group 71">
+      <rect id="Rectangle_36" data-name="Rectangle 36" width="1.935" height="1.935" fill="#68387d"/>
+    </g>
+  </g>
+  <g id="Group_74" data-name="Group 74" transform="translate(0 7.741)">
+    <g id="Group_73" data-name="Group 73">
+      <path id="Path_39" data-name="Path 39" d="M31.934,101.784a.885.885,0,0,1-.968-.968A15.483,15.483,0,1,0,15.483,116.3h8.709v-1.935H15.483a13.548,13.548,0,1,1,13.548-13.548q0,.082,0,.165a2.822,2.822,0,0,0,2.9,2.738H42.578v-1.935Z" transform="translate(0 -85.333)" fill="#68387d"/>
+    </g>
+  </g>
+  <g id="Group_82" data-name="Group 82" transform="translate(23.224 29.031)">
+    <g id="Group_81" data-name="Group 81">
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="13.548" height="1.935" fill="#36b6e1"/>
+    </g>
+  </g>
+  <g id="Group_84" data-name="Group 84" transform="translate(38.707 29.031)">
+    <g id="Group_83" data-name="Group 83">
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="1.935" height="1.935" fill="#68387d"/>
+    </g>
+  </g>
+  <g id="Group_86" data-name="Group 86" transform="translate(25.16 32.901)">
+    <g id="Group_85" data-name="Group 85">
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="1.935" height="1.935" fill="#68387d"/>
+    </g>
+  </g>
+  <g id="Group_88" data-name="Group 88" transform="translate(29.031 32.901)">
+    <g id="Group_87" data-name="Group 87">
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="13.548" height="1.935" fill="#36b6e1"/>
+    </g>
+  </g>
+  <text id="N" transform="translate(11.005 27.226)" fill="#36b6e1" font-size="11" font-family="CircularStd-Bold, Circular Std" font-weight="700" text-decoration="line-through"><tspan x="0" y="0">N</tspan></text>
+</svg>
